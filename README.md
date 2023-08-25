@@ -1,4 +1,4 @@
-# Getting Started
+# Just another sample to get started and learn CAP
 
 Welcome to your new project.
 
