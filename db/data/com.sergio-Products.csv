@@ -1,0 +1,11 @@
+ID,Name,Description,ImageUrl,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx,Product 1,This is the description for Product 1,http://example.com/product1.jpg,2023-08-04T12:00:00Z,2025-08-04T12:00:00Z,99.99,10.50,5.25,15.75,100.00
+yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy,Product 2,This is the description for Product 2,http://example.com/product2.jpg,2023-08-04T12:00:00Z,,49.99,7.75,3.25,11.00,50.00
+zzzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz,Product 3,This is the description for Product 3,http://example.com/product3.jpg,2023-08-04T12:00:00Z,,199.99,20.00,10.00,30.00,20.00
+aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Product 4,This is the description for Product 4,http://example.com/product4.jpg,2023-08-04T12:00:00Z,,149.99,15.00,7.50,22.50,75.00
+bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb,Product 5,This is the description for Product 5,http://example.com/product5.jpg,2023-08-04T12:00:00Z,,29.99,5.00,5.00,5.00,200.00
+cccccccc-cccc-cccc-cccc-cccccccccccc,Product 6,This is the description for Product 6,http://example.com/product6.jpg,2023-08-04T12:00:00Z,,79.99,12.00,9.00,18.00,50.00
+dddddddd-dddd-dddd-dddd-dddddddddddd,Product 7,This is the description for Product 7,http://example.com/product7.jpg,2023-08-04T12:00:00Z,2023-08-04T12:00:00Z,249.99,25.00,15.00,30.00,10.00
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee,Product 8,This is the description for Product 8,http://example.com/product8.jpg,2023-08-04T12:00:00Z,,69.99,8.00,8.00,8.00,150.00
+ffffffff-ffff-ffff-ffff-ffffffffffff,Product 9,This is the description for Product 9,http://example.com/product9.jpg,2023-08-04T12:00:00Z,,19.99,6.00,3.00,9.00,300.00
+gggggggg-gggg-gggg-gggg-gggggggggggg,Product 10,This is the description for Product 10,http://example.com/product10.jpg,2023-08-04T12:00:00Z,2024-08-04T12:00:00Z,149.99,15.00,10.00,20.00,25.00

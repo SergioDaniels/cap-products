@@ -1,0 +1,9 @@
+ID;Name;Address_City;Address_State;Address_PostalCode;Address_Country;Email;Phone;Fax
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx;Supplier 1;123 Main St;Cityville;NY;12345;USA;supplier1@example.com;+1 123-456-7890;+1 123-456-7899
+yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy;Supplier 2;456 Elm St;Townsville;CA;67890;USA;supplier2@example.com;+1 987-654-3210;+1 987-654-3219
+zzzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz;Supplier 3;789 Oak St;Villageville;TX;54321;USA;supplier3@example.com;+1 555-555-5555;+1 555-555-5559
+aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa;Supplier 4;321 Birch St;Hamletsville;FL;98765;USA;supplier4@example.com;+1 111-222-3333;+1 111-222-3339
+bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb;Supplier 5;654 Pine St;Citytown;IL;45678;USA;supplier5@example.com;+1 444-777-8888;+1 444-777-8889
+cccccccc-cccc-cccc-cccc-cccccccccccc;Supplier 6;987 Maple St;Villagetown;WA;76543;USA;supplier6@example.com;+1 666-999-0000;+1 666-999-0009
+dddddddd-dddd-dddd-dddd-dddddddddddd;Supplier 7;234 Cedar St;Hamletville;GA;23456;USA;supplier7@example.com;+1 777-888-9999;+1 777-888-9990
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee;Supplier 8;567 Walnut St;Towntown;OH;87654;USA;supplier8@example.com;+1 222-333-4444;+1 222-333-4449
