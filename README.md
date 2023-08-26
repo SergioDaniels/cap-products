@@ -15,7 +15,7 @@ File or Folder | Purpose
 
 ## Next Steps
 
-- Open a new terminal and run `cds watch` 
+- Open a new terminal and run `npm start` 
 - (in VS Code simply choose _**Terminal** > Run Task > npm start_)
 
 
