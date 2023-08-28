@@ -1,5 +1,5 @@
 ID,Name,Description,ImageUrl,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity
-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx,Product 1,This is the description for Product 1,http://example.com/product1.jpg,2023-08-04T12:00:00Z,2025-08-04T12:00:00Z,99.99,10.50,5.25,15.75,100.00
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx,Primer producto,This is the description for Product 1,http://example.com/product1.jpg,2023-08-04T12:00:00Z,2025-08-04T12:00:00Z,99.99,10.50,5.25,15.75,100.00
 yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy,Product 2,This is the description for Product 2,http://example.com/product2.jpg,2023-08-04T12:00:00Z,,49.99,7.75,3.25,11.00,50.00
 zzzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz,Product 3,This is the description for Product 3,http://example.com/product3.jpg,2023-08-04T12:00:00Z,,199.99,20.00,10.00,30.00,20.00
 aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Product 4,This is the description for Product 4,http://example.com/product4.jpg,2023-08-04T12:00:00Z,,149.99,15.00,7.50,22.50,75.00

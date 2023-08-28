@@ -32,7 +32,7 @@ entity Emails {
 }
 */
 
-type Gender : String enum{
+type Gender : String enum {
     male;
     female;
     nonbinary;
@@ -40,13 +40,13 @@ type Gender : String enum{
 
 entity Order {
     clientGender : Gender;
-    status: Integer enum{
-        submitted=1;
-        fulfilled=2;
-        shipped=3;
-        cancel=-1;
+    status       : Integer enum {
+        submitted = 1;
+        fulfilled = 2;
+        shipped   = 3;
+        cancel    = -1;
     };
-    priority: String @assert.range enum {
+    priority     : String @assert.range enum {
         high;
         medium;
         low;
@@ -58,10 +58,10 @@ type Dec    : Decimal(16, 2);
 
 entity Products {
     key ID               : UUID;
-        Name             : String;
-        Description      : String;
+        Name             : String default 'NoName';
+        Description      : String not null;
         ImageUrl         : String;
-        ReleaseDate      : DateTime;
+        ReleaseDate      : DateTime default $now;
         DiscontinuedDate : DateTime;
         Price            : Dec;
         Height           : type of Price;
@@ -144,4 +144,13 @@ entity Supplier_02 {
         Email   : String;
         Phone   : String;
         Fax     : String;
+};
+
+
+entity Car {
+    key ID                 : UUID;
+        name               : String;
+        virtual discount_1 : Decimal;
+        @Core.Computed: false
+        virtual discount_2 : Decimal;
 };
