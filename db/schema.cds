@@ -1,3 +1,5 @@
+//Logaly till clas 20 is free then you have to pay and it is way expensive.
+
 namespace com.sergio;
 
 
@@ -66,7 +68,11 @@ entity Products {
         Price            : Dec;
         Height           : type of Price;
         Width            : type of Price;
-        Quantity         : type of Price;
+        Quantity         : type of Price;        
+        Supplier: Association to one Supplier;
+        UnitOfMeassure: Association to UnitOfMeasures;
+        
+
 };
 
 entity Supplier {
@@ -151,6 +157,30 @@ entity Car {
     key ID                 : UUID;
         name               : String;
         virtual discount_1 : Decimal;
+
         @Core.Computed: false
         virtual discount_2 : Decimal;
 };
+
+
+entity SelProducts                   as
+    select from Products;
+
+/*
+entity ParamProducts(pname : String) as
+    select from Products {
+        Name,
+        Price,
+        Quantity
+    }
+
+    where
+        Name = :pname; //VISTA CON PARAMETROS
+*/
+
+        extend Products with {
+            PriceCondition: String(2);
+            PriceDetermination: String(3);
+        };
+
+
