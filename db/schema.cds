@@ -1,4 +1,4 @@
-//Logaly till clas 20 is free then you have to pay and it is way expensive, at least for me.
+//Logaly till clas 20 is free then the rest of the videos are only about 2 min, you have to pay then
 
 namespace com.sergio;
 
