@@ -1,4 +1,4 @@
-//Logaly till clas 20 is free then you have to pay and it is way expensive.
+//Logaly till clas 20 is free then you have to pay and it is way expensive, at least for me.
 
 namespace com.sergio;
 
