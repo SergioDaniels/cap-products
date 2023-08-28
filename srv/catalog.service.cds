@@ -19,4 +19,8 @@ service Z {
 
 };
 
-//https://port4004-workspaces-ws-szbjk.us10.trial.applicationstudio.cloud.sap/odata/v4/z/Books?$expand=author
+//MANY TO MANY TEST
+
+//https://port4004-workspaces-ws-szbjk.us10.trial.applicationstudio.cloud.sap/odata/v4/z/Books?$expand=authors($expand=author)
+
+//https://port4004-workspaces-ws-szbjk.us10.trial.applicationstudio.cloud.sap/odata/v4/z/Authors?$expand=books($expand=book)
