@@ -1,4 +1,5 @@
 //Logali cap training playlist till class 20 it is free then the rest of the videos are only about 2 min and incomplete, you have to pay, I do not have the money, then completing this project from another sources
+//Contuned with this tutorial from UDEMY: **Learn SAP® CAPM (Cloud Application Programming Model)**, very good too.
 
 namespace com.sergio;
 
