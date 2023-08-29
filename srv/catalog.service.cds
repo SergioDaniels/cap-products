@@ -11,20 +11,12 @@ service CatalogService {
 
 };
 
+
 service Z {
     
     entity Books as projection on sergio.Books;
    
     entity Authors as projection on sergio.Authors;
-
-};
-
-service mysrdemo{
-
-function myfoobar(msg:String) returns String;
-
-//How to call the function from URL
-//https://port4004-workspaces-ws-szbjk.us10.trial.applicationstudio.cloud.sap/odata/v4/mysrdemo/myfoobar(msg='%20Here%20we%20are')
 
 };
 
