@@ -29,13 +29,10 @@ annotate Student with @(
            Value:date_sign_up,     
         }
     ],
-   HeaderInfo  : {
-       $Type : 'UI.HeaderInfoType',
-       TypeName : 'Nada',
-       TypeNamePlural : 'Nadas',
-       Description:{
-        Value:email
-       }
-   },
+   HeaderInfo: {
+      TypeName: 'email', TypeNamePlural: 'Emails',
+      Title: { Value: email },
+      Description: { Value: first_name }
+    },
     }
 );
