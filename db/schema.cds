@@ -1,4 +1,4 @@
-//Logaly till clas 20 is free then the rest of the videos are only about 2 min, you have to pay then
+//Logali cap training playlist till class 20 it is free then the rest of the videos are only about 2 min and incomplete, you have to pay, I do not have the money, then completing this project from another sources
 
 namespace com.sergio;
 
