@@ -19,6 +19,15 @@ service Z {
 
 };
 
+service mysrdemo{
+
+function myfoobar(msg:String) returns String;
+
+//https://port4004-workspaces-ws-szbjk.us10.trial.applicationstudio.cloud.sap/odata/v4/mysrdemo/myfoobar(msg='%20Here%20we%20are')
+
+};
+
+
 //MANY TO MANY TEST
 
 //https://port4004-workspaces-ws-szbjk.us10.trial.applicationstudio.cloud.sap/odata/v4/z/Books?$expand=authors($expand=author)
